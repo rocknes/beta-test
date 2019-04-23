@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="rocknesBetaTest",
-    version="0.0.1",
+    version="1.0.0.beta1",
     author="Aritra Sen",
     author_email="aritra.iitkgp@gmail.com",
     description="A small example package",
